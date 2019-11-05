@@ -154,14 +154,17 @@ body {
 }
 
 .elements li, .elements a {
+    outline: none;
     display:inline;
     text-decoration:none;
     color: rgba(94, 94, 94, 0.411);
 }
 
 .forgot {
+    outline: none;
     text-decoration:none;
     color: rgba(94, 94, 94, 0.411);
     font-size:10px;
     text-align:right;
 }
+
